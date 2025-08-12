@@ -11,19 +11,19 @@
 [v ___eecpymem __eecpymem `(v  1 e 1 0 ]
 "39
 [v ___memcpyee __memcpyee `(v  1 e 1 0 ]
-"207 D:\yiming\work\TY1410_RX_LOW.X\main.c
+"219 D:\yiming\work\TY1410_RX_LOW.X\main.c
 [v _Exception_handling Exception_handling `(v  1 e 1 0 ]
-"221
+"233
 [v _LED_output LED_output `(v  1 e 1 0 ]
-"296
+"308
 [v _check_input check_input `(v  1 e 1 0 ]
-"338
+"350
 [v _getFrameData getFrameData `(v  1 e 1 0 ]
-"404
+"416
 [v _ECCP3_CallBack ECCP3_CallBack `(v  1 e 1 0 ]
-"478
+"490
 [v _TMR0_EvenHandler TMR0_EvenHandler `(v  1 e 1 0 ]
-"489
+"501
 [v _main main `(v  1 e 1 0 ]
 "59 D:\yiming\work\TY1410_RX_LOW.X\mcc_generated_files/eccp3.c
 [v _ECCP3_Initialize ECCP3_Initialize `(v  1 e 1 0 ]
@@ -287,15 +287,15 @@
 [v _CCP3CON CCP3CON `VEuc  1 e 1 @787 ]
 "8074
 [v _PLLR PLLR `VEb  1 e 0 @1238 ]
-"100 D:\yiming\work\TY1410_RX_LOW.X\main.c
+"107 D:\yiming\work\TY1410_RX_LOW.X\main.c
 [v _rx_data rx_data `uc  1 e 1 0 ]
-"101
+"108
 [v _data_1byte_OK data_1byte_OK `VEa  1 e 1 0 ]
-"102
+"109
 [v _fFrame_OK fFrame_OK `a  1 e 1 0 ]
-"103
+"110
 [v _data_buf data_buf `[11]uc  1 e 11 0 ]
-"104
+"111
 [v _step step `uc  1 e 1 0 ]
 [s S561 . 1 `a 1 b0 1 0 :1:0 
 `a 1 b1 1 0 :1:1 
@@ -306,7 +306,7 @@
 `a 1 b6 1 0 :1:6 
 `a 1 b7 1 0 :1:7 
 ]
-"106
+"113
 [u S570 . 1 `S561 1 . 1 0 `uc 1 Byte 1 0 ]
 [v _D2 D2 `S570  1 e 1 0 ]
 [s S573 . 1 `a 1 b0 1 0 :1:0 
@@ -318,7 +318,7 @@
 `a 1 turnLight_R 1 0 :1:6 
 `a 1 b7 1 0 :1:7 
 ]
-"107
+"114
 [u S582 . 1 `S573 1 . 1 0 `uc 1 Byte 1 0 ]
 [v _D3 D3 `S582  1 e 1 0 ]
 [s S585 . 1 `a 1 turnLight_R 1 0 :1:0 
@@ -330,16 +330,16 @@
 `a 1 b6 1 0 :1:6 
 `a 1 b7 1 0 :1:7 
 ]
-"108
+"115
 [u S594 . 1 `S585 1 . 1 0 `uc 1 Byte 1 0 ]
 [v _csFlag csFlag `S594  1 e 1 0 ]
-"110
+"117
 [v _T10MS_CNT T10MS_CNT `VEuc  1 e 1 0 ]
-"112
+"119
 [v _fException fException `a  1 e 1 0 ]
-"113
+"120
 [v _fException2 fException2 `a  1 e 1 0 ]
-"123
+"130
 [v _CS CS `[64]uc  1 s 64 CS ]
 "58 D:\yiming\work\TY1410_RX_LOW.X\mcc_generated_files/tmr0.c
 [v _timer0ReloadVal timer0ReloadVal `VEuc  1 e 1 0 ]
@@ -347,20 +347,20 @@
 [v _TMR0_InterruptHandler TMR0_InterruptHandler `*.37(v  1 e 2 0 ]
 "57 D:\yiming\work\TY1410_RX_LOW.X\mcc_generated_files/tmr1.c
 [v _timer1ReloadVal timer1ReloadVal `VEus  1 e 2 0 ]
-"489 D:\yiming\work\TY1410_RX_LOW.X\main.c
+"501 D:\yiming\work\TY1410_RX_LOW.X\main.c
 [v _main main `(v  1 e 1 0 ]
 {
-"531
+"543
 } 0
-"338
+"350
 [v _getFrameData getFrameData `(v  1 e 1 0 ]
 {
-"402
+"414
 } 0
-"296
+"308
 [v _check_input check_input `(v  1 e 1 0 ]
 {
-"336
+"348
 } 0
 "50 D:\yiming\work\TY1410_RX_LOW.X\mcc_generated_files/mcc.c
 [v _SYSTEM_Initialize SYSTEM_Initialize `(v  1 e 1 0 ]
@@ -413,19 +413,19 @@
 {
 "78
 } 0
-"221 D:\yiming\work\TY1410_RX_LOW.X\main.c
+"233 D:\yiming\work\TY1410_RX_LOW.X\main.c
 [v _LED_output LED_output `(v  1 e 1 0 ]
 {
-"278
+"290
 [v LED_output@i i `uc  1 a 1 6 ]
-"222
+"234
 [v LED_output@crc8 crc8 `uc  1 a 1 5 ]
-"294
+"306
 } 0
-"207
+"219
 [v _Exception_handling Exception_handling `(v  1 e 1 0 ]
 {
-"219
+"231
 } 0
 "93 D:\yiming\work\TY1410_RX_LOW.X\mcc_generated_files/epwm1.c
 [v _EPWM1_LoadDutyValue EPWM1_LoadDutyValue `(v  1 e 1 0 ]
@@ -455,10 +455,10 @@
 {
 "147
 } 0
-"478 D:\yiming\work\TY1410_RX_LOW.X\main.c
+"490 D:\yiming\work\TY1410_RX_LOW.X\main.c
 [v _TMR0_EvenHandler TMR0_EvenHandler `(v  1 e 1 0 ]
 {
-"484
+"496
 } 0
 "80 D:\yiming\work\TY1410_RX_LOW.X\mcc_generated_files/eccp3.c
 [v _ECCP3_CaptureISR ECCP3_CaptureISR `(v  1 e 1 0 ]
@@ -470,29 +470,29 @@
 [v ECCP3_CaptureISR@module module `S497  1 a 2 4 ]
 "93
 } 0
-"404 D:\yiming\work\TY1410_RX_LOW.X\main.c
+"416 D:\yiming\work\TY1410_RX_LOW.X\main.c
 [v _ECCP3_CallBack ECCP3_CallBack `(v  1 e 1 0 ]
 {
 [v ECCP3_CallBack@capturedValue capturedValue `us  1 p 2 0 ]
-"405
+"417
 [v ECCP3_CallBack@pluse_width_LO pluse_width_LO `us  1 s 2 pluse_width_LO ]
-"406
+"418
 [v ECCP3_CallBack@pluse_width_HI pluse_width_HI `us  1 s 2 pluse_width_HI ]
-"407
+"419
 [v ECCP3_CallBack@HI_us HI_us `uc  1 s 1 HI_us ]
-"408
+"420
 [v ECCP3_CallBack@LO_us LO_us `uc  1 s 1 LO_us ]
-"409
+"421
 [v ECCP3_CallBack@diff_us diff_us `uc  1 s 1 diff_us ]
-"410
+"422
 [v ECCP3_CallBack@falling_edge_time falling_edge_time `us  1 s 2 falling_edge_time ]
-"411
+"423
 [v ECCP3_CallBack@rising_edge_time rising_edge_time `us  1 s 2 rising_edge_time ]
-"412
+"424
 [v ECCP3_CallBack@rise_edge_flag rise_edge_flag `a  1 s 1 rise_edge_flag ]
-"413
+"425
 [v ECCP3_CallBack@fHead fHead `a  1 s 1 fHead ]
-"414
+"426
 [v ECCP3_CallBack@data_cnt data_cnt `uc  1 s 1 data_cnt ]
-"476
+"488
 } 0

@@ -26,13 +26,18 @@ add_library(TOYOTA_RX_default_default_XC8_compile OBJECT ${TOYOTA_RX_default_def
 endif()
 
 
-add_executable(${TOYOTA_RX_default_image_name} ${TOYOTA_RX_default_library_list})
-set_target_properties(${TOYOTA_RX_default_image_name} PROPERTIES RUNTIME_OUTPUT_DIRECTORY ${TOYOTA_RX_default_output_dir})
+add_executable(TOYOTA_RX_default_image_YldF_YGr ${TOYOTA_RX_default_library_list})
 
-target_link_libraries(${TOYOTA_RX_default_image_name} PRIVATE ${TOYOTA_RX_default_default_XC8_FILE_TYPE_link})
+set_target_properties(TOYOTA_RX_default_image_YldF_YGr PROPERTIES RUNTIME_OUTPUT_DIRECTORY ${TOYOTA_RX_default_output_dir})
+set_target_properties(TOYOTA_RX_default_image_YldF_YGr PROPERTIES OUTPUT_NAME "default")
+set_target_properties(TOYOTA_RX_default_image_YldF_YGr PROPERTIES SUFFIX ".elf")
+         
+
+target_link_libraries(TOYOTA_RX_default_image_YldF_YGr PRIVATE ${TOYOTA_RX_default_default_XC8_FILE_TYPE_link})
+
 
 # Add the link options from the rule file.
-TOYOTA_RX_default_link_rule(${TOYOTA_RX_default_image_name})
+TOYOTA_RX_default_link_rule(TOYOTA_RX_default_image_YldF_YGr)
 
 
 

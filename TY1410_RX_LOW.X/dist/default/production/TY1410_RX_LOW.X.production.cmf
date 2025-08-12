@@ -45,7 +45,7 @@ dataBANK1 BANK1 1 A0 A0 40 1 1
 clrtext CODE 0 406 406 6 2 1
 bssCOMMON COMMON 1 70 70 6 1 1
 config CONFIG 4 8007 8007 2 2 1
-$C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_15.o
+$C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_15.o
 reset_vec CODE 0 0 0 2 2 1
 end_init CODE 0 26 26 2 2 1
 config CONFIG 4 8007 8007 2 2 1
@@ -129,34 +129,34 @@ STRING 417-1FFF 2
 # All other numeric values are in decimal.
 %LINETAB
 $dist/default/production\TY1410_RX_LOW.X.production.o
-28 cinit CODE >3640:C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_1.s
-28 cinit CODE >3643:C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_1.s
-28 cinit CODE >3748:C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_1.s
-29 cinit CODE >3749:C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_1.s
-2A cinit CODE >3750:C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_1.s
-2B cinit CODE >3751:C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_1.s
-2C cinit CODE >3752:C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_1.s
-2D cinit CODE >3753:C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_1.s
-2E cinit CODE >3754:C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_1.s
-2F cinit CODE >3755:C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_1.s
-30 cinit CODE >3756:C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_1.s
-31 cinit CODE >3757:C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_1.s
-34 cinit CODE >3774:C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_1.s
-35 cinit CODE >3775:C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_1.s
-36 cinit CODE >3776:C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_1.s
-37 cinit CODE >3777:C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_1.s
-38 cinit CODE >3778:C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_1.s
-39 cinit CODE >3779:C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_1.s
-3A cinit CODE >3783:C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_1.s
-3B cinit CODE >3784:C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_1.s
-3C cinit CODE >3785:C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_1.s
-3D cinit CODE >3786:C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_1.s
-3E cinit CODE >3787:C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_1.s
-3F cinit CODE >3788:C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_1.s
-42 cinit CODE >3794:C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_1.s
-42 cinit CODE >3796:C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_1.s
-43 cinit CODE >3797:C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_1.s
-44 cinit CODE >3798:C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_1.s
+28 cinit CODE >3640:C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_1.s
+28 cinit CODE >3643:C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_1.s
+28 cinit CODE >3748:C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_1.s
+29 cinit CODE >3749:C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_1.s
+2A cinit CODE >3750:C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_1.s
+2B cinit CODE >3751:C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_1.s
+2C cinit CODE >3752:C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_1.s
+2D cinit CODE >3753:C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_1.s
+2E cinit CODE >3754:C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_1.s
+2F cinit CODE >3755:C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_1.s
+30 cinit CODE >3756:C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_1.s
+31 cinit CODE >3757:C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_1.s
+34 cinit CODE >3774:C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_1.s
+35 cinit CODE >3775:C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_1.s
+36 cinit CODE >3776:C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_1.s
+37 cinit CODE >3777:C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_1.s
+38 cinit CODE >3778:C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_1.s
+39 cinit CODE >3779:C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_1.s
+3A cinit CODE >3783:C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_1.s
+3B cinit CODE >3784:C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_1.s
+3C cinit CODE >3785:C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_1.s
+3D cinit CODE >3786:C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_1.s
+3E cinit CODE >3787:C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_1.s
+3F cinit CODE >3788:C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_1.s
+42 cinit CODE >3794:C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_1.s
+42 cinit CODE >3796:C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_1.s
+43 cinit CODE >3797:C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_1.s
+44 cinit CODE >3798:C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_1.s
 4 intentry CODE >52:D:\yiming\work\TY1410_RX_LOW.X\mcc_generated_files/interrupt_manager.c
 6 intentry CODE >55:D:\yiming\work\TY1410_RX_LOW.X\mcc_generated_files/interrupt_manager.c
 E intentry CODE >57:D:\yiming\work\TY1410_RX_LOW.X\mcc_generated_files/interrupt_manager.c
@@ -167,71 +167,71 @@ E intentry CODE >57:D:\yiming\work\TY1410_RX_LOW.X\mcc_generated_files/interrupt
 23 intentry CODE >64:D:\yiming\work\TY1410_RX_LOW.X\mcc_generated_files/interrupt_manager.c
 24 intentry CODE >73:D:\yiming\work\TY1410_RX_LOW.X\mcc_generated_files/interrupt_manager.c
 24 intentry CODE >74:D:\yiming\work\TY1410_RX_LOW.X\mcc_generated_files/interrupt_manager.c
-113 text22 CODE >404:D:\yiming\work\TY1410_RX_LOW.X\main.c
-113 text22 CODE >417:D:\yiming\work\TY1410_RX_LOW.X\main.c
-11A text22 CODE >418:D:\yiming\work\TY1410_RX_LOW.X\main.c
-11E text22 CODE >419:D:\yiming\work\TY1410_RX_LOW.X\main.c
-120 text22 CODE >420:D:\yiming\work\TY1410_RX_LOW.X\main.c
-126 text22 CODE >421:D:\yiming\work\TY1410_RX_LOW.X\main.c
-127 text22 CODE >423:D:\yiming\work\TY1410_RX_LOW.X\main.c
-129 text22 CODE >423:D:\yiming\work\TY1410_RX_LOW.X\main.c
-12D text22 CODE >423:D:\yiming\work\TY1410_RX_LOW.X\main.c
-131 text22 CODE >424:D:\yiming\work\TY1410_RX_LOW.X\main.c
-137 text22 CODE >425:D:\yiming\work\TY1410_RX_LOW.X\main.c
-138 text22 CODE >426:D:\yiming\work\TY1410_RX_LOW.X\main.c
-144 text22 CODE >427:D:\yiming\work\TY1410_RX_LOW.X\main.c
-144 text22 CODE >428:D:\yiming\work\TY1410_RX_LOW.X\main.c
-150 text22 CODE >429:D:\yiming\work\TY1410_RX_LOW.X\main.c
-15C text22 CODE >430:D:\yiming\work\TY1410_RX_LOW.X\main.c
-15E text22 CODE >430:D:\yiming\work\TY1410_RX_LOW.X\main.c
-162 text22 CODE >431:D:\yiming\work\TY1410_RX_LOW.X\main.c
-166 text22 CODE >433:D:\yiming\work\TY1410_RX_LOW.X\main.c
-169 text22 CODE >435:D:\yiming\work\TY1410_RX_LOW.X\main.c
-16E text22 CODE >436:D:\yiming\work\TY1410_RX_LOW.X\main.c
-170 text22 CODE >438:D:\yiming\work\TY1410_RX_LOW.X\main.c
-173 text22 CODE >438:D:\yiming\work\TY1410_RX_LOW.X\main.c
-177 text22 CODE >440:D:\yiming\work\TY1410_RX_LOW.X\main.c
-179 text22 CODE >441:D:\yiming\work\TY1410_RX_LOW.X\main.c
-17A text22 CODE >442:D:\yiming\work\TY1410_RX_LOW.X\main.c
-17D text22 CODE >446:D:\yiming\work\TY1410_RX_LOW.X\main.c
-17F text22 CODE >446:D:\yiming\work\TY1410_RX_LOW.X\main.c
-183 text22 CODE >448:D:\yiming\work\TY1410_RX_LOW.X\main.c
-185 text22 CODE >449:D:\yiming\work\TY1410_RX_LOW.X\main.c
-192 text22 CODE >450:D:\yiming\work\TY1410_RX_LOW.X\main.c
-193 text22 CODE >452:D:\yiming\work\TY1410_RX_LOW.X\main.c
-195 text22 CODE >453:D:\yiming\work\TY1410_RX_LOW.X\main.c
-1A1 text22 CODE >454:D:\yiming\work\TY1410_RX_LOW.X\main.c
-1A1 text22 CODE >456:D:\yiming\work\TY1410_RX_LOW.X\main.c
-1A5 text22 CODE >457:D:\yiming\work\TY1410_RX_LOW.X\main.c
-1A7 text22 CODE >457:D:\yiming\work\TY1410_RX_LOW.X\main.c
-1AB text22 CODE >458:D:\yiming\work\TY1410_RX_LOW.X\main.c
-1AC text22 CODE >459:D:\yiming\work\TY1410_RX_LOW.X\main.c
-1AF text22 CODE >462:D:\yiming\work\TY1410_RX_LOW.X\main.c
-1AF text22 CODE >464:D:\yiming\work\TY1410_RX_LOW.X\main.c
-1B0 text22 CODE >465:D:\yiming\work\TY1410_RX_LOW.X\main.c
-1B6 text22 CODE >466:D:\yiming\work\TY1410_RX_LOW.X\main.c
-1BB text22 CODE >467:D:\yiming\work\TY1410_RX_LOW.X\main.c
-1BE text22 CODE >469:D:\yiming\work\TY1410_RX_LOW.X\main.c
-1C1 text22 CODE >469:D:\yiming\work\TY1410_RX_LOW.X\main.c
-1C5 text22 CODE >469:D:\yiming\work\TY1410_RX_LOW.X\main.c
-1C9 text22 CODE >470:D:\yiming\work\TY1410_RX_LOW.X\main.c
-1CF text22 CODE >471:D:\yiming\work\TY1410_RX_LOW.X\main.c
-1D0 text22 CODE >472:D:\yiming\work\TY1410_RX_LOW.X\main.c
-1DC text22 CODE >474:D:\yiming\work\TY1410_RX_LOW.X\main.c
-1DE text22 CODE >476:D:\yiming\work\TY1410_RX_LOW.X\main.c
+113 text22 CODE >416:D:\yiming\work\TY1410_RX_LOW.X\main.c
+113 text22 CODE >429:D:\yiming\work\TY1410_RX_LOW.X\main.c
+11A text22 CODE >430:D:\yiming\work\TY1410_RX_LOW.X\main.c
+11E text22 CODE >431:D:\yiming\work\TY1410_RX_LOW.X\main.c
+120 text22 CODE >432:D:\yiming\work\TY1410_RX_LOW.X\main.c
+126 text22 CODE >433:D:\yiming\work\TY1410_RX_LOW.X\main.c
+127 text22 CODE >435:D:\yiming\work\TY1410_RX_LOW.X\main.c
+129 text22 CODE >435:D:\yiming\work\TY1410_RX_LOW.X\main.c
+12D text22 CODE >435:D:\yiming\work\TY1410_RX_LOW.X\main.c
+131 text22 CODE >436:D:\yiming\work\TY1410_RX_LOW.X\main.c
+137 text22 CODE >437:D:\yiming\work\TY1410_RX_LOW.X\main.c
+138 text22 CODE >438:D:\yiming\work\TY1410_RX_LOW.X\main.c
+144 text22 CODE >439:D:\yiming\work\TY1410_RX_LOW.X\main.c
+144 text22 CODE >440:D:\yiming\work\TY1410_RX_LOW.X\main.c
+150 text22 CODE >441:D:\yiming\work\TY1410_RX_LOW.X\main.c
+15C text22 CODE >442:D:\yiming\work\TY1410_RX_LOW.X\main.c
+15E text22 CODE >442:D:\yiming\work\TY1410_RX_LOW.X\main.c
+162 text22 CODE >443:D:\yiming\work\TY1410_RX_LOW.X\main.c
+166 text22 CODE >445:D:\yiming\work\TY1410_RX_LOW.X\main.c
+169 text22 CODE >447:D:\yiming\work\TY1410_RX_LOW.X\main.c
+16E text22 CODE >448:D:\yiming\work\TY1410_RX_LOW.X\main.c
+170 text22 CODE >450:D:\yiming\work\TY1410_RX_LOW.X\main.c
+173 text22 CODE >450:D:\yiming\work\TY1410_RX_LOW.X\main.c
+177 text22 CODE >452:D:\yiming\work\TY1410_RX_LOW.X\main.c
+179 text22 CODE >453:D:\yiming\work\TY1410_RX_LOW.X\main.c
+17A text22 CODE >454:D:\yiming\work\TY1410_RX_LOW.X\main.c
+17D text22 CODE >458:D:\yiming\work\TY1410_RX_LOW.X\main.c
+17F text22 CODE >458:D:\yiming\work\TY1410_RX_LOW.X\main.c
+183 text22 CODE >460:D:\yiming\work\TY1410_RX_LOW.X\main.c
+185 text22 CODE >461:D:\yiming\work\TY1410_RX_LOW.X\main.c
+192 text22 CODE >462:D:\yiming\work\TY1410_RX_LOW.X\main.c
+193 text22 CODE >464:D:\yiming\work\TY1410_RX_LOW.X\main.c
+195 text22 CODE >465:D:\yiming\work\TY1410_RX_LOW.X\main.c
+1A1 text22 CODE >466:D:\yiming\work\TY1410_RX_LOW.X\main.c
+1A1 text22 CODE >468:D:\yiming\work\TY1410_RX_LOW.X\main.c
+1A5 text22 CODE >469:D:\yiming\work\TY1410_RX_LOW.X\main.c
+1A7 text22 CODE >469:D:\yiming\work\TY1410_RX_LOW.X\main.c
+1AB text22 CODE >470:D:\yiming\work\TY1410_RX_LOW.X\main.c
+1AC text22 CODE >471:D:\yiming\work\TY1410_RX_LOW.X\main.c
+1AF text22 CODE >474:D:\yiming\work\TY1410_RX_LOW.X\main.c
+1AF text22 CODE >476:D:\yiming\work\TY1410_RX_LOW.X\main.c
+1B0 text22 CODE >477:D:\yiming\work\TY1410_RX_LOW.X\main.c
+1B6 text22 CODE >478:D:\yiming\work\TY1410_RX_LOW.X\main.c
+1BB text22 CODE >479:D:\yiming\work\TY1410_RX_LOW.X\main.c
+1BE text22 CODE >481:D:\yiming\work\TY1410_RX_LOW.X\main.c
+1C1 text22 CODE >481:D:\yiming\work\TY1410_RX_LOW.X\main.c
+1C5 text22 CODE >481:D:\yiming\work\TY1410_RX_LOW.X\main.c
+1C9 text22 CODE >482:D:\yiming\work\TY1410_RX_LOW.X\main.c
+1CF text22 CODE >483:D:\yiming\work\TY1410_RX_LOW.X\main.c
+1D0 text22 CODE >484:D:\yiming\work\TY1410_RX_LOW.X\main.c
+1DC text22 CODE >486:D:\yiming\work\TY1410_RX_LOW.X\main.c
+1DE text22 CODE >488:D:\yiming\work\TY1410_RX_LOW.X\main.c
 3AB text21 CODE >80:D:\yiming\work\TY1410_RX_LOW.X\mcc_generated_files/eccp3.c
 3AB text21 CODE >85:D:\yiming\work\TY1410_RX_LOW.X\mcc_generated_files/eccp3.c
 3AD text21 CODE >88:D:\yiming\work\TY1410_RX_LOW.X\mcc_generated_files/eccp3.c
 3B0 text21 CODE >89:D:\yiming\work\TY1410_RX_LOW.X\mcc_generated_files/eccp3.c
 3B2 text21 CODE >92:D:\yiming\work\TY1410_RX_LOW.X\mcc_generated_files/eccp3.c
 3B9 text21 CODE >93:D:\yiming\work\TY1410_RX_LOW.X\mcc_generated_files/eccp3.c
-39C text20 CODE >478:D:\yiming\work\TY1410_RX_LOW.X\main.c
-39C text20 CODE >479:D:\yiming\work\TY1410_RX_LOW.X\main.c
-3A1 text20 CODE >480:D:\yiming\work\TY1410_RX_LOW.X\main.c
-3A3 text20 CODE >480:D:\yiming\work\TY1410_RX_LOW.X\main.c
-3A7 text20 CODE >481:D:\yiming\work\TY1410_RX_LOW.X\main.c
-3A9 text20 CODE >482:D:\yiming\work\TY1410_RX_LOW.X\main.c
-3AA text20 CODE >484:D:\yiming\work\TY1410_RX_LOW.X\main.c
+39C text20 CODE >490:D:\yiming\work\TY1410_RX_LOW.X\main.c
+39C text20 CODE >491:D:\yiming\work\TY1410_RX_LOW.X\main.c
+3A1 text20 CODE >492:D:\yiming\work\TY1410_RX_LOW.X\main.c
+3A3 text20 CODE >492:D:\yiming\work\TY1410_RX_LOW.X\main.c
+3A7 text20 CODE >493:D:\yiming\work\TY1410_RX_LOW.X\main.c
+3A9 text20 CODE >494:D:\yiming\work\TY1410_RX_LOW.X\main.c
+3AA text20 CODE >496:D:\yiming\work\TY1410_RX_LOW.X\main.c
 416 text19 CODE >144:D:\yiming\work\TY1410_RX_LOW.X\mcc_generated_files/tmr0.c
 416 text19 CODE >147:D:\yiming\work\TY1410_RX_LOW.X\mcc_generated_files/tmr0.c
 3D5 text18 CODE >130:D:\yiming\work\TY1410_RX_LOW.X\mcc_generated_files/tmr0.c
@@ -251,53 +251,53 @@ E intentry CODE >57:D:\yiming\work\TY1410_RX_LOW.X\mcc_generated_files/interrupt
 33B text15 CODE >95:D:\yiming\work\TY1410_RX_LOW.X\mcc_generated_files/epwm1.c
 347 text15 CODE >98:D:\yiming\work\TY1410_RX_LOW.X\mcc_generated_files/epwm1.c
 356 text15 CODE >99:D:\yiming\work\TY1410_RX_LOW.X\mcc_generated_files/epwm1.c
-2FF text14 CODE >207:D:\yiming\work\TY1410_RX_LOW.X\main.c
-2FF text14 CODE >208:D:\yiming\work\TY1410_RX_LOW.X\main.c
-30C text14 CODE >209:D:\yiming\work\TY1410_RX_LOW.X\main.c
-30E text14 CODE >210:D:\yiming\work\TY1410_RX_LOW.X\main.c
-311 text14 CODE >212:D:\yiming\work\TY1410_RX_LOW.X\main.c
-317 text14 CODE >214:D:\yiming\work\TY1410_RX_LOW.X\main.c
-319 text14 CODE >215:D:\yiming\work\TY1410_RX_LOW.X\main.c
-31B text14 CODE >216:D:\yiming\work\TY1410_RX_LOW.X\main.c
-31C text14 CODE >217:D:\yiming\work\TY1410_RX_LOW.X\main.c
-31D text14 CODE >219:D:\yiming\work\TY1410_RX_LOW.X\main.c
-46 text13 CODE >221:D:\yiming\work\TY1410_RX_LOW.X\main.c
-46 text13 CODE >222:D:\yiming\work\TY1410_RX_LOW.X\main.c
-4D text13 CODE >224:D:\yiming\work\TY1410_RX_LOW.X\main.c
-4F text13 CODE >224:D:\yiming\work\TY1410_RX_LOW.X\main.c
-54 text13 CODE >232:D:\yiming\work\TY1410_RX_LOW.X\main.c
-55 text13 CODE >234:D:\yiming\work\TY1410_RX_LOW.X\main.c
-59 text13 CODE >235:D:\yiming\work\TY1410_RX_LOW.X\main.c
-5C text13 CODE >237:D:\yiming\work\TY1410_RX_LOW.X\main.c
-5E text13 CODE >238:D:\yiming\work\TY1410_RX_LOW.X\main.c
-5E text13 CODE >240:D:\yiming\work\TY1410_RX_LOW.X\main.c
-6B text13 CODE >242:D:\yiming\work\TY1410_RX_LOW.X\main.c
-6D text13 CODE >243:D:\yiming\work\TY1410_RX_LOW.X\main.c
-74 text13 CODE >244:D:\yiming\work\TY1410_RX_LOW.X\main.c
-81 text13 CODE >246:D:\yiming\work\TY1410_RX_LOW.X\main.c
-88 text13 CODE >247:D:\yiming\work\TY1410_RX_LOW.X\main.c
-8A text13 CODE >248:D:\yiming\work\TY1410_RX_LOW.X\main.c
-8C text13 CODE >249:D:\yiming\work\TY1410_RX_LOW.X\main.c
-95 text13 CODE >250:D:\yiming\work\TY1410_RX_LOW.X\main.c
-9E text13 CODE >251:D:\yiming\work\TY1410_RX_LOW.X\main.c
-9E text13 CODE >252:D:\yiming\work\TY1410_RX_LOW.X\main.c
-AB text13 CODE >254:D:\yiming\work\TY1410_RX_LOW.X\main.c
-AD text13 CODE >255:D:\yiming\work\TY1410_RX_LOW.X\main.c
-B5 text13 CODE >256:D:\yiming\work\TY1410_RX_LOW.X\main.c
-C2 text13 CODE >258:D:\yiming\work\TY1410_RX_LOW.X\main.c
-C5 text13 CODE >260:D:\yiming\work\TY1410_RX_LOW.X\main.c
-D1 text13 CODE >262:D:\yiming\work\TY1410_RX_LOW.X\main.c
-D4 text13 CODE >264:D:\yiming\work\TY1410_RX_LOW.X\main.c
-E0 text13 CODE >266:D:\yiming\work\TY1410_RX_LOW.X\main.c
-E3 text13 CODE >268:D:\yiming\work\TY1410_RX_LOW.X\main.c
-EF text13 CODE >270:D:\yiming\work\TY1410_RX_LOW.X\main.c
-F2 text13 CODE >272:D:\yiming\work\TY1410_RX_LOW.X\main.c
-FE text13 CODE >274:D:\yiming\work\TY1410_RX_LOW.X\main.c
-101 text13 CODE >278:D:\yiming\work\TY1410_RX_LOW.X\main.c
-103 text13 CODE >279:D:\yiming\work\TY1410_RX_LOW.X\main.c
-108 text13 CODE >280:D:\yiming\work\TY1410_RX_LOW.X\main.c
-10E text13 CODE >280:D:\yiming\work\TY1410_RX_LOW.X\main.c
-112 text13 CODE >294:D:\yiming\work\TY1410_RX_LOW.X\main.c
+2FF text14 CODE >219:D:\yiming\work\TY1410_RX_LOW.X\main.c
+2FF text14 CODE >220:D:\yiming\work\TY1410_RX_LOW.X\main.c
+30C text14 CODE >221:D:\yiming\work\TY1410_RX_LOW.X\main.c
+30E text14 CODE >222:D:\yiming\work\TY1410_RX_LOW.X\main.c
+311 text14 CODE >224:D:\yiming\work\TY1410_RX_LOW.X\main.c
+317 text14 CODE >226:D:\yiming\work\TY1410_RX_LOW.X\main.c
+319 text14 CODE >227:D:\yiming\work\TY1410_RX_LOW.X\main.c
+31B text14 CODE >228:D:\yiming\work\TY1410_RX_LOW.X\main.c
+31C text14 CODE >229:D:\yiming\work\TY1410_RX_LOW.X\main.c
+31D text14 CODE >231:D:\yiming\work\TY1410_RX_LOW.X\main.c
+46 text13 CODE >233:D:\yiming\work\TY1410_RX_LOW.X\main.c
+46 text13 CODE >234:D:\yiming\work\TY1410_RX_LOW.X\main.c
+4D text13 CODE >236:D:\yiming\work\TY1410_RX_LOW.X\main.c
+4F text13 CODE >236:D:\yiming\work\TY1410_RX_LOW.X\main.c
+54 text13 CODE >244:D:\yiming\work\TY1410_RX_LOW.X\main.c
+55 text13 CODE >246:D:\yiming\work\TY1410_RX_LOW.X\main.c
+59 text13 CODE >247:D:\yiming\work\TY1410_RX_LOW.X\main.c
+5C text13 CODE >249:D:\yiming\work\TY1410_RX_LOW.X\main.c
+5E text13 CODE >250:D:\yiming\work\TY1410_RX_LOW.X\main.c
+5E text13 CODE >252:D:\yiming\work\TY1410_RX_LOW.X\main.c
+6B text13 CODE >254:D:\yiming\work\TY1410_RX_LOW.X\main.c
+6D text13 CODE >255:D:\yiming\work\TY1410_RX_LOW.X\main.c
+74 text13 CODE >256:D:\yiming\work\TY1410_RX_LOW.X\main.c
+81 text13 CODE >258:D:\yiming\work\TY1410_RX_LOW.X\main.c
+88 text13 CODE >259:D:\yiming\work\TY1410_RX_LOW.X\main.c
+8A text13 CODE >260:D:\yiming\work\TY1410_RX_LOW.X\main.c
+8C text13 CODE >261:D:\yiming\work\TY1410_RX_LOW.X\main.c
+95 text13 CODE >262:D:\yiming\work\TY1410_RX_LOW.X\main.c
+9E text13 CODE >263:D:\yiming\work\TY1410_RX_LOW.X\main.c
+9E text13 CODE >264:D:\yiming\work\TY1410_RX_LOW.X\main.c
+AB text13 CODE >266:D:\yiming\work\TY1410_RX_LOW.X\main.c
+AD text13 CODE >267:D:\yiming\work\TY1410_RX_LOW.X\main.c
+B5 text13 CODE >268:D:\yiming\work\TY1410_RX_LOW.X\main.c
+C2 text13 CODE >270:D:\yiming\work\TY1410_RX_LOW.X\main.c
+C5 text13 CODE >272:D:\yiming\work\TY1410_RX_LOW.X\main.c
+D1 text13 CODE >274:D:\yiming\work\TY1410_RX_LOW.X\main.c
+D4 text13 CODE >276:D:\yiming\work\TY1410_RX_LOW.X\main.c
+E0 text13 CODE >278:D:\yiming\work\TY1410_RX_LOW.X\main.c
+E3 text13 CODE >280:D:\yiming\work\TY1410_RX_LOW.X\main.c
+EF text13 CODE >282:D:\yiming\work\TY1410_RX_LOW.X\main.c
+F2 text13 CODE >284:D:\yiming\work\TY1410_RX_LOW.X\main.c
+FE text13 CODE >286:D:\yiming\work\TY1410_RX_LOW.X\main.c
+101 text13 CODE >290:D:\yiming\work\TY1410_RX_LOW.X\main.c
+103 text13 CODE >291:D:\yiming\work\TY1410_RX_LOW.X\main.c
+108 text13 CODE >292:D:\yiming\work\TY1410_RX_LOW.X\main.c
+10E text13 CODE >292:D:\yiming\work\TY1410_RX_LOW.X\main.c
+112 text13 CODE >306:D:\yiming\work\TY1410_RX_LOW.X\main.c
 3EE text12 CODE >59:D:\yiming\work\TY1410_RX_LOW.X\mcc_generated_files/eccp3.c
 3EE text12 CODE >64:D:\yiming\work\TY1410_RX_LOW.X\mcc_generated_files/eccp3.c
 3F1 text12 CODE >67:D:\yiming\work\TY1410_RX_LOW.X\mcc_generated_files/eccp3.c
@@ -375,122 +375,122 @@ FE text13 CODE >274:D:\yiming\work\TY1410_RX_LOW.X\main.c
 369 text3 CODE >59:D:\yiming\work\TY1410_RX_LOW.X\mcc_generated_files/mcc.c
 36C text3 CODE >60:D:\yiming\work\TY1410_RX_LOW.X\mcc_generated_files/mcc.c
 36F text3 CODE >61:D:\yiming\work\TY1410_RX_LOW.X\mcc_generated_files/mcc.c
-2CE text2 CODE >296:D:\yiming\work\TY1410_RX_LOW.X\main.c
-2CE text2 CODE >297:D:\yiming\work\TY1410_RX_LOW.X\main.c
-2D1 text2 CODE >298:D:\yiming\work\TY1410_RX_LOW.X\main.c
-2D3 text2 CODE >299:D:\yiming\work\TY1410_RX_LOW.X\main.c
-2D4 text2 CODE >302:D:\yiming\work\TY1410_RX_LOW.X\main.c
-2D8 text2 CODE >303:D:\yiming\work\TY1410_RX_LOW.X\main.c
-2DA text2 CODE >304:D:\yiming\work\TY1410_RX_LOW.X\main.c
-2DA text2 CODE >305:D:\yiming\work\TY1410_RX_LOW.X\main.c
-2DB text2 CODE >308:D:\yiming\work\TY1410_RX_LOW.X\main.c
-2DF text2 CODE >309:D:\yiming\work\TY1410_RX_LOW.X\main.c
-2E1 text2 CODE >310:D:\yiming\work\TY1410_RX_LOW.X\main.c
-2E1 text2 CODE >311:D:\yiming\work\TY1410_RX_LOW.X\main.c
-2E2 text2 CODE >314:D:\yiming\work\TY1410_RX_LOW.X\main.c
-2E6 text2 CODE >315:D:\yiming\work\TY1410_RX_LOW.X\main.c
-2E8 text2 CODE >316:D:\yiming\work\TY1410_RX_LOW.X\main.c
-2E8 text2 CODE >317:D:\yiming\work\TY1410_RX_LOW.X\main.c
-2E9 text2 CODE >320:D:\yiming\work\TY1410_RX_LOW.X\main.c
-2ED text2 CODE >321:D:\yiming\work\TY1410_RX_LOW.X\main.c
-2EF text2 CODE >322:D:\yiming\work\TY1410_RX_LOW.X\main.c
-2EF text2 CODE >323:D:\yiming\work\TY1410_RX_LOW.X\main.c
-2F0 text2 CODE >326:D:\yiming\work\TY1410_RX_LOW.X\main.c
-2F4 text2 CODE >327:D:\yiming\work\TY1410_RX_LOW.X\main.c
-2F6 text2 CODE >328:D:\yiming\work\TY1410_RX_LOW.X\main.c
-2F6 text2 CODE >329:D:\yiming\work\TY1410_RX_LOW.X\main.c
-2F7 text2 CODE >332:D:\yiming\work\TY1410_RX_LOW.X\main.c
-2FB text2 CODE >333:D:\yiming\work\TY1410_RX_LOW.X\main.c
-2FD text2 CODE >334:D:\yiming\work\TY1410_RX_LOW.X\main.c
-2FD text2 CODE >335:D:\yiming\work\TY1410_RX_LOW.X\main.c
-2FE text2 CODE >336:D:\yiming\work\TY1410_RX_LOW.X\main.c
-1DF text1 CODE >338:D:\yiming\work\TY1410_RX_LOW.X\main.c
-1DF text1 CODE >339:D:\yiming\work\TY1410_RX_LOW.X\main.c
-1E5 text1 CODE >340:D:\yiming\work\TY1410_RX_LOW.X\main.c
-1E6 text1 CODE >343:D:\yiming\work\TY1410_RX_LOW.X\main.c
-1E7 text1 CODE >345:D:\yiming\work\TY1410_RX_LOW.X\main.c
-1ED text1 CODE >346:D:\yiming\work\TY1410_RX_LOW.X\main.c
-1EF text1 CODE >347:D:\yiming\work\TY1410_RX_LOW.X\main.c
-1F1 text1 CODE >348:D:\yiming\work\TY1410_RX_LOW.X\main.c
-1F2 text1 CODE >349:D:\yiming\work\TY1410_RX_LOW.X\main.c
-1F4 text1 CODE >353:D:\yiming\work\TY1410_RX_LOW.X\main.c
-1FA text1 CODE >354:D:\yiming\work\TY1410_RX_LOW.X\main.c
-1FC text1 CODE >355:D:\yiming\work\TY1410_RX_LOW.X\main.c
-1FE text1 CODE >356:D:\yiming\work\TY1410_RX_LOW.X\main.c
-1FF text1 CODE >361:D:\yiming\work\TY1410_RX_LOW.X\main.c
-201 text1 CODE >362:D:\yiming\work\TY1410_RX_LOW.X\main.c
-203 text1 CODE >363:D:\yiming\work\TY1410_RX_LOW.X\main.c
-204 text1 CODE >365:D:\yiming\work\TY1410_RX_LOW.X\main.c
-206 text1 CODE >366:D:\yiming\work\TY1410_RX_LOW.X\main.c
-208 text1 CODE >367:D:\yiming\work\TY1410_RX_LOW.X\main.c
-209 text1 CODE >369:D:\yiming\work\TY1410_RX_LOW.X\main.c
-20B text1 CODE >370:D:\yiming\work\TY1410_RX_LOW.X\main.c
-20D text1 CODE >371:D:\yiming\work\TY1410_RX_LOW.X\main.c
-20E text1 CODE >373:D:\yiming\work\TY1410_RX_LOW.X\main.c
-210 text1 CODE >374:D:\yiming\work\TY1410_RX_LOW.X\main.c
-212 text1 CODE >375:D:\yiming\work\TY1410_RX_LOW.X\main.c
-213 text1 CODE >377:D:\yiming\work\TY1410_RX_LOW.X\main.c
-215 text1 CODE >378:D:\yiming\work\TY1410_RX_LOW.X\main.c
-217 text1 CODE >379:D:\yiming\work\TY1410_RX_LOW.X\main.c
-218 text1 CODE >381:D:\yiming\work\TY1410_RX_LOW.X\main.c
-21A text1 CODE >382:D:\yiming\work\TY1410_RX_LOW.X\main.c
-21C text1 CODE >383:D:\yiming\work\TY1410_RX_LOW.X\main.c
-21D text1 CODE >385:D:\yiming\work\TY1410_RX_LOW.X\main.c
-21F text1 CODE >386:D:\yiming\work\TY1410_RX_LOW.X\main.c
-221 text1 CODE >387:D:\yiming\work\TY1410_RX_LOW.X\main.c
-222 text1 CODE >389:D:\yiming\work\TY1410_RX_LOW.X\main.c
-224 text1 CODE >390:D:\yiming\work\TY1410_RX_LOW.X\main.c
-226 text1 CODE >391:D:\yiming\work\TY1410_RX_LOW.X\main.c
-227 text1 CODE >393:D:\yiming\work\TY1410_RX_LOW.X\main.c
-229 text1 CODE >394:D:\yiming\work\TY1410_RX_LOW.X\main.c
-22C text1 CODE >400:D:\yiming\work\TY1410_RX_LOW.X\main.c
-22E text1 CODE >400:D:\yiming\work\TY1410_RX_LOW.X\main.c
-231 text1 CODE >400:D:\yiming\work\TY1410_RX_LOW.X\main.c
-234 text1 CODE >400:D:\yiming\work\TY1410_RX_LOW.X\main.c
-237 text1 CODE >400:D:\yiming\work\TY1410_RX_LOW.X\main.c
-23A text1 CODE >400:D:\yiming\work\TY1410_RX_LOW.X\main.c
-23D text1 CODE >400:D:\yiming\work\TY1410_RX_LOW.X\main.c
-240 text1 CODE >400:D:\yiming\work\TY1410_RX_LOW.X\main.c
-243 text1 CODE >400:D:\yiming\work\TY1410_RX_LOW.X\main.c
-246 text1 CODE >400:D:\yiming\work\TY1410_RX_LOW.X\main.c
-249 text1 CODE >400:D:\yiming\work\TY1410_RX_LOW.X\main.c
-24C text1 CODE >400:D:\yiming\work\TY1410_RX_LOW.X\main.c
-24F text1 CODE >402:D:\yiming\work\TY1410_RX_LOW.X\main.c
-290 maintext CODE >489:D:\yiming\work\TY1410_RX_LOW.X\main.c
-290 maintext CODE >491:D:\yiming\work\TY1410_RX_LOW.X\main.c
-293 maintext CODE >492:D:\yiming\work\TY1410_RX_LOW.X\main.c
-29B maintext CODE >498:D:\yiming\work\TY1410_RX_LOW.X\main.c
-29C maintext CODE >501:D:\yiming\work\TY1410_RX_LOW.X\main.c
-29D maintext CODE >508:D:\yiming\work\TY1410_RX_LOW.X\main.c
-2A4 maintext CODE >509:D:\yiming\work\TY1410_RX_LOW.X\main.c
-2A6 maintext CODE >512:D:\yiming\work\TY1410_RX_LOW.X\main.c
-2A9 maintext CODE >513:D:\yiming\work\TY1410_RX_LOW.X\main.c
-2AC maintext CODE >515:D:\yiming\work\TY1410_RX_LOW.X\main.c
-2AF maintext CODE >516:D:\yiming\work\TY1410_RX_LOW.X\main.c
-2B5 maintext CODE >517:D:\yiming\work\TY1410_RX_LOW.X\main.c
-2BA maintext CODE >519:D:\yiming\work\TY1410_RX_LOW.X\main.c
-2BB maintext CODE >520:D:\yiming\work\TY1410_RX_LOW.X\main.c
-2BC maintext CODE >521:D:\yiming\work\TY1410_RX_LOW.X\main.c
-2C0 maintext CODE >524:D:\yiming\work\TY1410_RX_LOW.X\main.c
-2C1 maintext CODE >526:D:\yiming\work\TY1410_RX_LOW.X\main.c
-2C8 maintext CODE >527:D:\yiming\work\TY1410_RX_LOW.X\main.c
-2CA maintext CODE >528:D:\yiming\work\TY1410_RX_LOW.X\main.c
-406 clrtext CODE >3763:C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_1.s
-406 clrtext CODE >3764:C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_1.s
-407 clrtext CODE >3765:C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_1.s
-407 clrtext CODE >3766:C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_1.s
-408 clrtext CODE >3767:C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_1.s
-409 clrtext CODE >3768:C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_1.s
-40A clrtext CODE >3769:C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_1.s
-40B clrtext CODE >3770:C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_1.s
-400 inittext CODE >3737:C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_1.s
-400 inittext CODE >3738:C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_1.s
-401 inittext CODE >3739:C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_1.s
-401 inittext CODE >3740:C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_1.s
-402 inittext CODE >3741:C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_1.s
-403 inittext CODE >3742:C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_1.s
-404 inittext CODE >3743:C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_1.s
-405 inittext CODE >3744:C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_1.s
+2CE text2 CODE >308:D:\yiming\work\TY1410_RX_LOW.X\main.c
+2CE text2 CODE >309:D:\yiming\work\TY1410_RX_LOW.X\main.c
+2D1 text2 CODE >310:D:\yiming\work\TY1410_RX_LOW.X\main.c
+2D3 text2 CODE >311:D:\yiming\work\TY1410_RX_LOW.X\main.c
+2D4 text2 CODE >314:D:\yiming\work\TY1410_RX_LOW.X\main.c
+2D8 text2 CODE >315:D:\yiming\work\TY1410_RX_LOW.X\main.c
+2DA text2 CODE >316:D:\yiming\work\TY1410_RX_LOW.X\main.c
+2DA text2 CODE >317:D:\yiming\work\TY1410_RX_LOW.X\main.c
+2DB text2 CODE >320:D:\yiming\work\TY1410_RX_LOW.X\main.c
+2DF text2 CODE >321:D:\yiming\work\TY1410_RX_LOW.X\main.c
+2E1 text2 CODE >322:D:\yiming\work\TY1410_RX_LOW.X\main.c
+2E1 text2 CODE >323:D:\yiming\work\TY1410_RX_LOW.X\main.c
+2E2 text2 CODE >326:D:\yiming\work\TY1410_RX_LOW.X\main.c
+2E6 text2 CODE >327:D:\yiming\work\TY1410_RX_LOW.X\main.c
+2E8 text2 CODE >328:D:\yiming\work\TY1410_RX_LOW.X\main.c
+2E8 text2 CODE >329:D:\yiming\work\TY1410_RX_LOW.X\main.c
+2E9 text2 CODE >332:D:\yiming\work\TY1410_RX_LOW.X\main.c
+2ED text2 CODE >333:D:\yiming\work\TY1410_RX_LOW.X\main.c
+2EF text2 CODE >334:D:\yiming\work\TY1410_RX_LOW.X\main.c
+2EF text2 CODE >335:D:\yiming\work\TY1410_RX_LOW.X\main.c
+2F0 text2 CODE >338:D:\yiming\work\TY1410_RX_LOW.X\main.c
+2F4 text2 CODE >339:D:\yiming\work\TY1410_RX_LOW.X\main.c
+2F6 text2 CODE >340:D:\yiming\work\TY1410_RX_LOW.X\main.c
+2F6 text2 CODE >341:D:\yiming\work\TY1410_RX_LOW.X\main.c
+2F7 text2 CODE >344:D:\yiming\work\TY1410_RX_LOW.X\main.c
+2FB text2 CODE >345:D:\yiming\work\TY1410_RX_LOW.X\main.c
+2FD text2 CODE >346:D:\yiming\work\TY1410_RX_LOW.X\main.c
+2FD text2 CODE >347:D:\yiming\work\TY1410_RX_LOW.X\main.c
+2FE text2 CODE >348:D:\yiming\work\TY1410_RX_LOW.X\main.c
+1DF text1 CODE >350:D:\yiming\work\TY1410_RX_LOW.X\main.c
+1DF text1 CODE >351:D:\yiming\work\TY1410_RX_LOW.X\main.c
+1E5 text1 CODE >352:D:\yiming\work\TY1410_RX_LOW.X\main.c
+1E6 text1 CODE >355:D:\yiming\work\TY1410_RX_LOW.X\main.c
+1E7 text1 CODE >357:D:\yiming\work\TY1410_RX_LOW.X\main.c
+1ED text1 CODE >358:D:\yiming\work\TY1410_RX_LOW.X\main.c
+1EF text1 CODE >359:D:\yiming\work\TY1410_RX_LOW.X\main.c
+1F1 text1 CODE >360:D:\yiming\work\TY1410_RX_LOW.X\main.c
+1F2 text1 CODE >361:D:\yiming\work\TY1410_RX_LOW.X\main.c
+1F4 text1 CODE >365:D:\yiming\work\TY1410_RX_LOW.X\main.c
+1FA text1 CODE >366:D:\yiming\work\TY1410_RX_LOW.X\main.c
+1FC text1 CODE >367:D:\yiming\work\TY1410_RX_LOW.X\main.c
+1FE text1 CODE >368:D:\yiming\work\TY1410_RX_LOW.X\main.c
+1FF text1 CODE >373:D:\yiming\work\TY1410_RX_LOW.X\main.c
+201 text1 CODE >374:D:\yiming\work\TY1410_RX_LOW.X\main.c
+203 text1 CODE >375:D:\yiming\work\TY1410_RX_LOW.X\main.c
+204 text1 CODE >377:D:\yiming\work\TY1410_RX_LOW.X\main.c
+206 text1 CODE >378:D:\yiming\work\TY1410_RX_LOW.X\main.c
+208 text1 CODE >379:D:\yiming\work\TY1410_RX_LOW.X\main.c
+209 text1 CODE >381:D:\yiming\work\TY1410_RX_LOW.X\main.c
+20B text1 CODE >382:D:\yiming\work\TY1410_RX_LOW.X\main.c
+20D text1 CODE >383:D:\yiming\work\TY1410_RX_LOW.X\main.c
+20E text1 CODE >385:D:\yiming\work\TY1410_RX_LOW.X\main.c
+210 text1 CODE >386:D:\yiming\work\TY1410_RX_LOW.X\main.c
+212 text1 CODE >387:D:\yiming\work\TY1410_RX_LOW.X\main.c
+213 text1 CODE >389:D:\yiming\work\TY1410_RX_LOW.X\main.c
+215 text1 CODE >390:D:\yiming\work\TY1410_RX_LOW.X\main.c
+217 text1 CODE >391:D:\yiming\work\TY1410_RX_LOW.X\main.c
+218 text1 CODE >393:D:\yiming\work\TY1410_RX_LOW.X\main.c
+21A text1 CODE >394:D:\yiming\work\TY1410_RX_LOW.X\main.c
+21C text1 CODE >395:D:\yiming\work\TY1410_RX_LOW.X\main.c
+21D text1 CODE >397:D:\yiming\work\TY1410_RX_LOW.X\main.c
+21F text1 CODE >398:D:\yiming\work\TY1410_RX_LOW.X\main.c
+221 text1 CODE >399:D:\yiming\work\TY1410_RX_LOW.X\main.c
+222 text1 CODE >401:D:\yiming\work\TY1410_RX_LOW.X\main.c
+224 text1 CODE >402:D:\yiming\work\TY1410_RX_LOW.X\main.c
+226 text1 CODE >403:D:\yiming\work\TY1410_RX_LOW.X\main.c
+227 text1 CODE >405:D:\yiming\work\TY1410_RX_LOW.X\main.c
+229 text1 CODE >406:D:\yiming\work\TY1410_RX_LOW.X\main.c
+22C text1 CODE >412:D:\yiming\work\TY1410_RX_LOW.X\main.c
+22E text1 CODE >412:D:\yiming\work\TY1410_RX_LOW.X\main.c
+231 text1 CODE >412:D:\yiming\work\TY1410_RX_LOW.X\main.c
+234 text1 CODE >412:D:\yiming\work\TY1410_RX_LOW.X\main.c
+237 text1 CODE >412:D:\yiming\work\TY1410_RX_LOW.X\main.c
+23A text1 CODE >412:D:\yiming\work\TY1410_RX_LOW.X\main.c
+23D text1 CODE >412:D:\yiming\work\TY1410_RX_LOW.X\main.c
+240 text1 CODE >412:D:\yiming\work\TY1410_RX_LOW.X\main.c
+243 text1 CODE >412:D:\yiming\work\TY1410_RX_LOW.X\main.c
+246 text1 CODE >412:D:\yiming\work\TY1410_RX_LOW.X\main.c
+249 text1 CODE >412:D:\yiming\work\TY1410_RX_LOW.X\main.c
+24C text1 CODE >412:D:\yiming\work\TY1410_RX_LOW.X\main.c
+24F text1 CODE >414:D:\yiming\work\TY1410_RX_LOW.X\main.c
+290 maintext CODE >501:D:\yiming\work\TY1410_RX_LOW.X\main.c
+290 maintext CODE >503:D:\yiming\work\TY1410_RX_LOW.X\main.c
+293 maintext CODE >504:D:\yiming\work\TY1410_RX_LOW.X\main.c
+29B maintext CODE >510:D:\yiming\work\TY1410_RX_LOW.X\main.c
+29C maintext CODE >513:D:\yiming\work\TY1410_RX_LOW.X\main.c
+29D maintext CODE >520:D:\yiming\work\TY1410_RX_LOW.X\main.c
+2A4 maintext CODE >521:D:\yiming\work\TY1410_RX_LOW.X\main.c
+2A6 maintext CODE >524:D:\yiming\work\TY1410_RX_LOW.X\main.c
+2A9 maintext CODE >525:D:\yiming\work\TY1410_RX_LOW.X\main.c
+2AC maintext CODE >527:D:\yiming\work\TY1410_RX_LOW.X\main.c
+2AF maintext CODE >528:D:\yiming\work\TY1410_RX_LOW.X\main.c
+2B5 maintext CODE >529:D:\yiming\work\TY1410_RX_LOW.X\main.c
+2BA maintext CODE >531:D:\yiming\work\TY1410_RX_LOW.X\main.c
+2BB maintext CODE >532:D:\yiming\work\TY1410_RX_LOW.X\main.c
+2BC maintext CODE >533:D:\yiming\work\TY1410_RX_LOW.X\main.c
+2C0 maintext CODE >536:D:\yiming\work\TY1410_RX_LOW.X\main.c
+2C1 maintext CODE >538:D:\yiming\work\TY1410_RX_LOW.X\main.c
+2C8 maintext CODE >539:D:\yiming\work\TY1410_RX_LOW.X\main.c
+2CA maintext CODE >540:D:\yiming\work\TY1410_RX_LOW.X\main.c
+406 clrtext CODE >3763:C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_1.s
+406 clrtext CODE >3764:C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_1.s
+407 clrtext CODE >3765:C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_1.s
+407 clrtext CODE >3766:C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_1.s
+408 clrtext CODE >3767:C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_1.s
+409 clrtext CODE >3768:C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_1.s
+40A clrtext CODE >3769:C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_1.s
+40B clrtext CODE >3770:C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_1.s
+400 inittext CODE >3737:C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_1.s
+400 inittext CODE >3738:C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_1.s
+401 inittext CODE >3739:C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_1.s
+401 inittext CODE >3740:C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_1.s
+402 inittext CODE >3741:C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_1.s
+403 inittext CODE >3742:C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_1.s
+404 inittext CODE >3743:C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_1.s
+405 inittext CODE >3744:C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_1.s
 # %SYMTAB Section
 # An enumeration of all symbols in the program.
 # The beginning of the section is indicated by %SYMTAB.
@@ -532,13 +532,13 @@ _TMR0 15 0 ABS 0 - dist/default/production\TY1410_RX_LOW.X.production.o
 _TMR2 1A 0 ABS 0 - dist/default/production\TY1410_RX_LOW.X.production.o
 _WPUB 20D 0 ABS 0 - dist/default/production\TY1410_RX_LOW.X.production.o
 _WPUE 210 0 ABS 0 - dist/default/production\TY1410_RX_LOW.X.production.o
-___sp 0 0 STACK 2 stack C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_15.o
+___sp 0 0 STACK 2 stack C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_15.o
 _main 520 0 CODE 0 maintext dist/default/production\TY1410_RX_LOW.X.production.o
 _step 41 0 BANK0 1 bssBANK0 dist/default/production\TY1410_RX_LOW.X.production.o
 btemp 7E 0 ABS 0 - dist/default/production\TY1410_RX_LOW.X.production.o
-___stack_hi 0 0 STACK 2 stack C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_15.o
-___stack_lo 0 0 STACK 2 stack C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_15.o
-start 4C 0 CODE 0 init C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_15.o
+___stack_hi 0 0 STACK 2 stack C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_15.o
+___stack_lo 0 0 STACK 2 stack C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_15.o
+start 4C 0 CODE 0 init C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_15.o
 _TMR0_InterruptHandler 33 0 BANK0 1 bssBANK0 dist/default/production\TY1410_RX_LOW.X.production.o
 ECCP3_CallBack@falling_edge_time 70 0 COMMON 1 bssCOMMON dist/default/production\TY1410_RX_LOW.X.production.o
 _ECCP3_CaptureISR 756 0 CODE 0 text21 dist/default/production\TY1410_RX_LOW.X.production.o
@@ -555,12 +555,12 @@ _EPWM1_LoadDutyValue 676 0 CODE 0 text15 dist/default/production\TY1410_RX_LOW.X
 TMR0_SetInterruptHandler@InterruptHandler 44 0 BANK0 1 cstackBANK0 dist/default/production\TY1410_RX_LOW.X.production.o
 __end_of_TMR0_EvenHandler 756 0 CODE 0 text20 dist/default/production\TY1410_RX_LOW.X.production.o
 _fException2 3C 0 BANK0 1 bssBANK0 dist/default/production\TY1410_RX_LOW.X.production.o
-intlevel0 0 0 ENTRY 0 functab C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_15.o
-intlevel1 0 0 ENTRY 0 functab C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_15.o
-intlevel2 0 0 ENTRY 0 functab C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_15.o
-intlevel3 0 0 ENTRY 0 functab C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_15.o
-intlevel4 0 0 ENTRY 0 functab C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_15.o
-intlevel5 0 0 ENTRY 0 functab C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_15.o
+intlevel0 0 0 ENTRY 0 functab C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_15.o
+intlevel1 0 0 ENTRY 0 functab C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_15.o
+intlevel2 0 0 ENTRY 0 functab C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_15.o
+intlevel3 0 0 ENTRY 0 functab C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_15.o
+intlevel4 0 0 ENTRY 0 functab C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_15.o
+intlevel5 0 0 ENTRY 0 functab C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_15.o
 __LbssCOMMON 0 0 ABS 0 bssCOMMON -
 wtemp0 7E 0 ABS 0 - dist/default/production\TY1410_RX_LOW.X.production.o
 __Hfunctab 0 0 ENTRY 0 functab -
@@ -580,8 +580,8 @@ __end_of_ECCP3_CaptureISR 774 0 CODE 0 text21 dist/default/production\TY1410_RX_
 ECCP3_CallBack@rise_edge_flag 39 0 BANK0 1 bssBANK0 dist/default/production\TY1410_RX_LOW.X.production.o
 _getFrameData 3BE 0 CODE 0 text1 dist/default/production\TY1410_RX_LOW.X.production.o
 _OPTION_REG 95 0 ABS 0 - dist/default/production\TY1410_RX_LOW.X.production.o
-___stackhi 0 0 ABS 0 - C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_15.o
-___stacklo 0 0 ABS 0 - C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_15.o
+___stackhi 0 0 ABS 0 - C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_15.o
+___stacklo 0 0 ABS 0 - C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_15.o
 __end_of_EPWM1_Initialize 790 0 CODE 0 text11 dist/default/production\TY1410_RX_LOW.X.production.o
 _T10MS_CNT 3E 0 BANK0 1 bssBANK0 dist/default/production\TY1410_RX_LOW.X.production.o
 _PIN_MANAGER_Initialize 63C 0 CODE 0 text9 dist/default/production\TY1410_RX_LOW.X.production.o
@@ -595,7 +595,7 @@ _T1GCON 19 0 ABS 0 - dist/default/production\TY1410_RX_LOW.X.production.o
 LED_output@crc8 49 0 BANK0 1 cstackBANK0 dist/default/production\TY1410_RX_LOW.X.production.o
 _LED_output 8C 0 CODE 0 text13 dist/default/production\TY1410_RX_LOW.X.production.o
 _WDTCON 97 0 ABS 0 - dist/default/production\TY1410_RX_LOW.X.production.o
-___int_sp 0 0 STACK 2 stack C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_15.o
+___int_sp 0 0 STACK 2 stack C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_15.o
 __Hbank0 0 0 ABS 0 bank0 -
 __Hbank1 0 0 ABS 0 bank1 -
 __Hbank2 0 0 ABS 0 bank2 -
@@ -746,7 +746,7 @@ _ECCP1AS 295 0 ABS 0 - dist/default/production\TY1410_RX_LOW.X.production.o
 _SYSTEM_Initialize 6AE 0 CODE 0 text3 dist/default/production\TY1410_RX_LOW.X.production.o
 __Lintentry 8 0 CODE 0 intentry -
 _rx_data 74 0 COMMON 1 bssCOMMON dist/default/production\TY1410_RX_LOW.X.production.o
-reset_vec 0 0 CODE 0 reset_vec C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_15.o
+reset_vec 0 0 CODE 0 reset_vec C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_15.o
 _CCPTMRS0bits 29E 0 ABS 0 - dist/default/production\TY1410_RX_LOW.X.production.o
 __pdataBANK1 A0 0 BANK1 1 dataBANK1 dist/default/production\TY1410_RX_LOW.X.production.o
 __LbssBANK0 0 0 ABS 0 bssBANK0 -
@@ -841,8 +841,8 @@ __H__absolute__ 0 0 ABS 0 __absolute__ -
 __end_of_TMR1_Initialize 7AA 0 CODE 0 text6 dist/default/production\TY1410_RX_LOW.X.production.o
 __Lreset_vec 0 0 CODE 0 reset_vec -
 __end_of_Exception_handling 63C 0 CODE 0 text14 dist/default/production\TY1410_RX_LOW.X.production.o
-___heap_hi 0 0 ABS 0 - C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_15.o
-___heap_lo 0 0 ABS 0 - C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_15.o
+___heap_hi 0 0 ABS 0 - C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_15.o
+___heap_lo 0 0 ABS 0 - C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_15.o
 LED_output@i 4A 0 BANK0 1 cstackBANK0 dist/default/production\TY1410_RX_LOW.X.production.o
 ECCP3_CallBack@capturedValue 76 0 COMMON 1 cstackCOMMON dist/default/production\TY1410_RX_LOW.X.production.o
 __end_of__initialization 84 0 CODE 0 cinit dist/default/production\TY1410_RX_LOW.X.production.o
@@ -880,8 +880,8 @@ _TMR0_EvenHandler 738 0 CODE 0 text20 dist/default/production\TY1410_RX_LOW.X.pr
 __initialization 50 0 CODE 0 cinit dist/default/production\TY1410_RX_LOW.X.production.o
 __pbssBANK0 20 0 BANK0 1 bssBANK0 dist/default/production\TY1410_RX_LOW.X.production.o
 _T2CONbits 1C 0 ABS 0 - dist/default/production\TY1410_RX_LOW.X.production.o
-___int_stack_hi 0 0 STACK 2 stack C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_15.o
-___int_stack_lo 0 0 STACK 2 stack C:\Users\t00904\AppData\Local\Temp\xcAsink.\driver_tmp_15.o
+___int_stack_hi 0 0 STACK 2 stack C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_15.o
+___int_stack_lo 0 0 STACK 2 stack C:\Users\t00904\AppData\Local\Temp\xcBsenc.1\driver_tmp_15.o
 _OSCILLATOR_Initialize 7C4 0 CODE 0 text10 dist/default/production\TY1410_RX_LOW.X.production.o
 __end_of_TMR2_Initialize 800 0 CODE 0 text5 dist/default/production\TY1410_RX_LOW.X.production.o
 # %SPLITSTAB Section
