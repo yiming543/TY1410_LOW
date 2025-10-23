@@ -10,9 +10,9 @@ CND_CONF=default
 CND_DISTDIR=dist
 TMPDIR=build/${CND_CONF}/${IMAGE_TYPE}/tmp-packaging
 TMPDIRNAME=tmp-packaging
-OUTPUT_PATH=dist/${CND_CONF}/${IMAGE_TYPE}/TY1410_RX_LOW.X.${IMAGE_TYPE}.${OUTPUT_SUFFIX}
-OUTPUT_BASENAME=TY1410_RX_LOW.X.${IMAGE_TYPE}.${OUTPUT_SUFFIX}
-PACKAGE_TOP_DIR=ty1410rxlow.x/
+OUTPUT_PATH=dist/${CND_CONF}/${IMAGE_TYPE}/TY1410_LOW_V03.X.${IMAGE_TYPE}.${OUTPUT_SUFFIX}
+OUTPUT_BASENAME=TY1410_LOW_V03.X.${IMAGE_TYPE}.${OUTPUT_SUFFIX}
+PACKAGE_TOP_DIR=ty1410lowv03.x/
 
 # Functions
 function checkReturnCode
@@ -57,15 +57,15 @@ mkdir -p ${TMPDIR}
 
 # Copy files and create directories and links
 cd "${TOP}"
-makeDirectory ${TMPDIR}/ty1410rxlow.x/bin
+makeDirectory ${TMPDIR}/ty1410lowv03.x/bin
 copyFileToTmpDir "${OUTPUT_PATH}" "${TMPDIR}/${PACKAGE_TOP_DIR}bin/${OUTPUT_BASENAME}" 0755
 
 
 # Generate tar file
 cd "${TOP}"
-rm -f ${CND_DISTDIR}/${CND_CONF}/package/ty1410rxlow.x.tar
+rm -f ${CND_DISTDIR}/${CND_CONF}/package/ty1410lowv03.x.tar
 cd ${TMPDIR}
-tar -vcf ../../../../${CND_DISTDIR}/${CND_CONF}/package/ty1410rxlow.x.tar *
+tar -vcf ../../../../${CND_DISTDIR}/${CND_CONF}/package/ty1410lowv03.x.tar *
 checkReturnCode
 
 # Cleanup

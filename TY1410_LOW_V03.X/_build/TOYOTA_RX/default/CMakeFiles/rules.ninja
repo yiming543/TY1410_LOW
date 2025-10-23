@@ -24,7 +24,7 @@ rule C_COMPILER__TOYOTA_RX_default_default_XC8_compile_unscanned_
 #############################################
 # Rule for linking C executable.
 
-rule C_EXECUTABLE_LINKER__TOYOTA_RX_default_image_YldF_YGr_
+rule C_EXECUTABLE_LINKER__TOYOTA_RX_default_image_LAuYOI_t_
   command = cmd.exe /C "$PRE_LINK && c:\PROGRA~1\MICROC~1\xc8\v2.46\bin\xc8-cc.exe $FLAGS $LINK_FLAGS $in -o $TARGET_FILE $LINK_PATH $LINK_LIBRARIES && $POST_BUILD"
   description = Linking C executable $TARGET_FILE
   restat = $RESTAT
@@ -42,7 +42,7 @@ rule CUSTOM_COMMAND
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = C:\Users\t00904\.mplab\app-finder\apps\cmake\v4.0.3\cmake-4.0.3-windows-x86_64\bin\cmake.exe --regenerate-during-build -SD:\yiming\work\TY1410_RX_LOW.X\cmake\TOYOTA_RX\default -BD:\yiming\work\TY1410_RX_LOW.X\_build\TOYOTA_RX\default
+  command = C:\Users\t00904\.mplab\app-finder\apps\cmake\v4.0.3\cmake-4.0.3-windows-x86_64\bin\cmake.exe --regenerate-during-build -SD:\yiming\github\TY1410_RX_LOW\TY1410_RX_LOW.X\cmake\TOYOTA_RX\default -BD:\yiming\github\TY1410_RX_LOW\TY1410_RX_LOW.X\_build\TOYOTA_RX\default
   description = Re-running CMake...
   generator = 1
 
