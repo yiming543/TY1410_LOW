@@ -1,0 +1,21 @@
+# ninja log v7
+5	397	7742621052306020	CMakeFiles/TOYOTA_RX_default_default_XC8_compile.dir/D_/yiming/work/TOYOTA_RX_serial.X/mcc_generated_files/device_config.c.p1	936f1e1182c36def
+2	481	7742621052274061	CMakeFiles/TOYOTA_RX_default_default_XC8_compile.dir/D_/yiming/work/TOYOTA_RX_serial.X/main.c.p1	c5d264667b6d060d
+15	478	7742621052411230	CMakeFiles/TOYOTA_RX_default_default_XC8_compile.dir/D_/yiming/work/TOYOTA_RX_serial.X/mcc_generated_files/pin_manager.c.p1	c7c85433a3f92356
+7	469	7742621052326066	CMakeFiles/TOYOTA_RX_default_default_XC8_compile.dir/D_/yiming/work/TOYOTA_RX_serial.X/mcc_generated_files/eusart.c.p1	7fbfe0e2dd8b5da8
+20	482	7742621052451249	CMakeFiles/TOYOTA_RX_default_default_XC8_compile.dir/D_/yiming/work/TOYOTA_RX_serial.X/mcc_generated_files/tmr1.c.p1	dd1a9267433e1722
+13	482	7742621052391229	CMakeFiles/TOYOTA_RX_default_default_XC8_compile.dir/D_/yiming/work/TOYOTA_RX_serial.X/mcc_generated_files/mcc.c.p1	e79bae86a7674316
+17	475	7742621052431252	CMakeFiles/TOYOTA_RX_default_default_XC8_compile.dir/D_/yiming/work/TOYOTA_RX_serial.X/mcc_generated_files/tmr0.c.p1	f8f24aacd5da26b9
+4	464	7742621052294067	CMakeFiles/TOYOTA_RX_default_default_XC8_compile.dir/D_/yiming/work/TOYOTA_RX_serial.X/mcc_generated_files/ccp4.c.p1	c19aff98f63f55e5
+10	482	7742621052361177	CMakeFiles/TOYOTA_RX_default_default_XC8_compile.dir/D_/yiming/work/TOYOTA_RX_serial.X/mcc_generated_files/interrupt_manager.c.p1	2dc777f5a46b23aa
+482	1510	7742621057075021	D:/yiming/work/TOYOTA_RX_serial.X/out/TOYOTA_RX/production/default-production.elf	acc5248ec808ec03
+2	12	7742621051703994	clean	18688ecbd2c0792d
+22	604	7742656998531665	CMakeFiles/TOYOTA_RX_default_default_XC8_compile.dir/D_/yiming/work/TOYOTA_RX_serial.X/mcc_generated_files/device_config.c.p1	936f1e1182c36def
+29	611	7742656998596773	CMakeFiles/TOYOTA_RX_default_default_XC8_compile.dir/D_/yiming/work/TOYOTA_RX_serial.X/mcc_generated_files/pin_manager.c.p1	c7c85433a3f92356
+34	617	7742656998652667	CMakeFiles/TOYOTA_RX_default_default_XC8_compile.dir/D_/yiming/work/TOYOTA_RX_serial.X/mcc_generated_files/tmr1.c.p1	dd1a9267433e1722
+24	619	7742656998546712	CMakeFiles/TOYOTA_RX_default_default_XC8_compile.dir/D_/yiming/work/TOYOTA_RX_serial.X/mcc_generated_files/eccp3.c.p1	417f77b64b482363
+37	619	7742656998672779	CMakeFiles/TOYOTA_RX_default_default_XC8_compile.dir/D_/yiming/work/TOYOTA_RX_serial.X/mcc_generated_files/tmr2.c.p1	390f6aa3b15e86c2
+26	620	7742656998566759	CMakeFiles/TOYOTA_RX_default_default_XC8_compile.dir/D_/yiming/work/TOYOTA_RX_serial.X/mcc_generated_files/interrupt_manager.c.p1	2dc777f5a46b23aa
+32	621	7742656998627532	CMakeFiles/TOYOTA_RX_default_default_XC8_compile.dir/D_/yiming/work/TOYOTA_RX_serial.X/mcc_generated_files/tmr0.c.p1	f8f24aacd5da26b9
+27	623	7742656998576784	CMakeFiles/TOYOTA_RX_default_default_XC8_compile.dir/D_/yiming/work/TOYOTA_RX_serial.X/mcc_generated_files/mcc.c.p1	e79bae86a7674316
+8	625	7742656998381838	CMakeFiles/TOYOTA_RX_default_default_XC8_compile.dir/D_/yiming/work/TOYOTA_RX_serial.X/main.c.p1	c5d264667b6d060d

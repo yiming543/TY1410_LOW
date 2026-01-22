@@ -7,7 +7,7 @@
 # 1 "C:/Users/t00904/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.2.63/xc8\\pic\\include\\language_support.h" 1 3
 # 2 "<built-in>" 2
 # 1 "main.c" 2
-# 62 "main.c"
+# 63 "main.c"
 # 1 "./mcc_generated_files/mcc.h" 1
 # 49 "./mcc_generated_files/mcc.h"
 # 1 "C:/Users/t00904/.mchp_packs/Microchip/PIC12-16F1xxx_DFP/1.2.63/xc8\\pic\\include\\xc.h" 1 3
@@ -5191,7 +5191,7 @@ void SYSTEM_Initialize(void);
 void OSCILLATOR_Initialize(void);
 # 100 "./mcc_generated_files/mcc.h"
 void WDT_Initialize(void);
-# 62 "main.c" 2
+# 63 "main.c" 2
 
 
 
@@ -5251,7 +5251,7 @@ volatile uint8_t T10MS_CNT = 0;
 
 _Bool fException = 0;
 _Bool fException2 = 0;
-# 130 "main.c"
+# 131 "main.c"
 static uint8_t CS[64] = {
 
     0x4C,
@@ -5415,7 +5415,7 @@ void LED_output(void) {
   for (uint8_t i = 0; i < 11; i++) {
     data_buf[i] = 0;
   }
-# 306 "main.c"
+# 307 "main.c"
 }
 
 void check_input(void) {

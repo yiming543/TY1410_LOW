@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/default/production\TY1410_LOW_V04.X.production.hex">
+    <memory name="program">
+      <units>words</units>
+      <length>8192</length>
+      <used>1187</used>
+      <free>7005</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>512</length>
+      <used>57</used>
+      <free>455</free>
+    </memory>
+  </executable>
+</project>
